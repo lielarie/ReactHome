@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="reacthome.client/reacthome.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ReactHome.Server/ReactHome.Server.csproj" />
+</Solution>

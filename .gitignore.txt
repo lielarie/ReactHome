@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+.env*
+!.env.example
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
